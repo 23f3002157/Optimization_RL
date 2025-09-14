@@ -92,8 +92,4 @@ A standard CPU is sufficient for running the notebook, though training may be sl
 7. Notes
 
     Hyperparameters: Tuned for stability (e.g., LR=5e-4, EPSILON_DECAY=20000, PENALTY=100.0). Adjust in Cell 3 or 11 if needed.
-
 ```
-### 5. Author
-
-Risshab Srinivas Ramesh
