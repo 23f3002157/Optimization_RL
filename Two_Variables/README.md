@@ -30,7 +30,13 @@ subject to the following constraints:
 
 ```math
 x + y <= 40
+```
+
+```math
 2x + y <= 60
+```
+
+```math
 x, y >= 0
 ```
 
