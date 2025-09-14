@@ -14,7 +14,7 @@ The DQN agent learns to **maximize an objective function while adhering to const
 The optimization problem solved is illustrated below:
 
 <p align="center">
-  <img src="./images/two_v.jpeg" alt="Linear Optimization Problem" width="400"/>
+  <img src="./images/two_v.png" alt="Linear Optimization Problem" width="400"/>
 </p>
 
 ---
