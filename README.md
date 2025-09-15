@@ -51,4 +51,4 @@ cd Three_Variables
 
 ---
 ### Authors
-ForDr. Prasant Misra and Risshab Srinivas Ramesh
+Dr. Prasant Misra and Risshab Srinivas Ramesh
