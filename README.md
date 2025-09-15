@@ -1,8 +1,8 @@
 # Optimization with Reinforcement Learning
 
 This repository explores how **Reinforcement Learning (RL)**, specifically **Deep Q-Networks (DQN)**, can be applied to solve **constrained optimization problems**.  
-It includes both **two-variable** and **three-variable** optimization problem variants, implemented in Python with custom environments, neural networks, and training workflows.
-For more details, refer Optimization_RL.pdf
+It includes both **two-variable** and **three-variable** optimization problem variants, implemented in Python with custom environments, neural networks, and training workflows. For more details, refer Optimization_RL.pdf
+
 ---
 
 ## 📖 Introduction
@@ -51,4 +51,4 @@ cd Three_Variables
 
 ---
 ### Authors
-Dr. Prasant Misra and Risshab Srinivas Ramesh
+ForDr. Prasant Misra and Risshab Srinivas Ramesh
